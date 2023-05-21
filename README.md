@@ -1,8 +1,8 @@
+# NLW Spacetime - Aniversário RocketSeat - 6 anos
+
 <p align="center">
   <img src="./.github/preview.png" alt="Demonstração do Projeto" width="100%" />
 </p>
-
-# NLW Spacetime - Aniversário RocketSeat - 6 anos
 
 # Tecnologias usadas
 
