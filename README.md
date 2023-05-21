@@ -1,6 +1,4 @@
-# nlw_space_niver_explorer
-
-NLW Spacetime - Aniversário RocketSeat
+# NLW Spacetime - Aniversário RocketSeat - 6 anos
 
 # Tecnologias usadas
 
