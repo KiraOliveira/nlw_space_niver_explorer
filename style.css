@@ -41,8 +41,8 @@
 /*Fiz de uma forma que ambos apareçam na tela de formas diferentes*/
 /*@keyframes enteringProfile {
   /* Formas de fazer o Frame*/
-  /*0% { background-color: #ed5636;}*/ /*Deixei comentado para usar posteriormente*/
-  /*30% { background-color: green;}
+/*0% { background-color: #ed5636;}*/ /*Deixei comentado para usar posteriormente*/
+/*30% { background-color: green;}
   /*78% { opacity: 0;}
   100% { opacity: 1;}
 
@@ -126,7 +126,7 @@ aside {
   gap: 20px;
   border-right: 1px solid;
   border-image: linear-gradient(#727275, #2c2c31) 1;
-  background-image: url("../img/background.svg");
+  background-image: url("/img/background.svg");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -166,11 +166,11 @@ aside span {
   body {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2gr 0.8fr;
-    grid-template-areas: 
-    "profile"
-    "timeline";
+    grid-template-areas:
+      "profile"
+      "timeline";
   }
-  
+
   aside {
     border-right: none;
     padding: 32px 12px;
